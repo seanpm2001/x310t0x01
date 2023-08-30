@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fneuroscience&psig=AOvVaw0-Ujqh7QesdsjhAYQKKgCF&ust=1693459142494000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJil4YbRg4EDFQAAAAAdAAAAABAb)" width="500" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fneuroscience&psig=AOvVaw0-Ujqh7QesdsjhAYQKKgCF&ust=1693459142494000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJil4YbRg4EDFQAAAAAdAAAAABAb" width="500" height="300"/>
 </div>
 
 ### Great to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
