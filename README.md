@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=29&lines=Computer+Programmer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=29&lines=PreMed+Student+Programmer+)](https://git.io/typing-svg)
 ###  Languages 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
