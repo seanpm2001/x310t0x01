@@ -10,3 +10,4 @@ I am a double major student in PreMedical and Computer Science, and I am deeply 
 
 ### Framework
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
