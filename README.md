@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FDiA4&psig=AOvVaw05kAIKWkl_7Iye-aIebpk9&ust=1693459378619000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDQpvfRg4EDFQAAAAAdAAAAABAZ" width="500" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FDiA4&psig=AOvVaw05kAIKWkl_7Iye-aIebpk9&ust=1693459378619000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDQpvfRg4EDFQAAAAAdAAAAABAZ" width="600" height="300"/>
 </div>
 
 ### Great to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
