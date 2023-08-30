@@ -10,8 +10,7 @@
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
-Profound knowledge of network architectures, operating systems, application software and cyber security tools.
-
+As a double major student in PreMedical and Computer Science, I am deeply fascinated by the exciting field of research for both medical and security research. My passion for this area of study has grown immensely over time, and I am driven to learn more and make meaningful contributions in both fields. With a strong foundation in both areas, I am confident in my ability to excel and make a positive impact in the world.
 
 
 **My specialties include..** 
