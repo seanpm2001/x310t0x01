@@ -22,7 +22,3 @@ As a double major student in PreMedical and Computer Science, I am deeply fascin
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=X310t0x01&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=X310t0x01&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tony Izquierdo" width="500">
-
-
-## Watch my contribution graph get eaten by the SNAKE 🐍
-![github contribution grid snake animation](https://raw.githubusercontent.com/X310t0x01/x310t0x01/output/github-contribution-grid-snake.svg)
