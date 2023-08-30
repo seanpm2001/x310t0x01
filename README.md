@@ -9,14 +9,12 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
-As a double major student in PreMedical and Computer Science, I am deeply fascinated by the exciting field of research for both medical and security research. My passion for this area of study has grown immensely over time, and I am driven to learn more and make meaningful contributions in both fields. With a strong foundation in both areas, I am confident in my ability to excel and make a positive impact in the world.
+### Great to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
+As a double major student in PreMedical and Computer Science, I am deeply fascinated by the exciting field of research for both medical and security research. My passion for this area of study has grown immensely over time, and I am driven to learn more and make meaningful contributions in both fields. With a strong foundation in both areas, I am confident in my ability to excel and make a positive impact in the world. As a part of my medical school application, I engage in computational neuroscience research. Additionally, I have a keen interest in cyber security and conduct research in this area in my free time. My passion for computer science and medical science is insatiable, and as such, I decided to focus on both fields of study. I am fascinated by complex topics and enjoy learning about them.
 
 
 **My specialties include..** 
-- 🚀 Extensive knownledge of web application
-- 📫 Proficient in Linux operating system configuration, utilities and programming
-- 💬 Web site security issues (XSS & SQL injection) across various platforms.  
+ 
  
 
 📊 **This Week I Spent My Time On:**
