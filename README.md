@@ -20,10 +20,6 @@ As a double major student in PreMedical and Computer Science, I am deeply fascin
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/x310t0x01/)
 
 
-⭐ **My GitHub Stats:** ⭐ 
-As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=X310t0x01&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=X310t0x01&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tony Izquierdo" width="500">
 
