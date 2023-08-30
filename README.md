@@ -11,21 +11,9 @@
 
 ### Great to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
 As a double major student in PreMedical and Computer Science, I am deeply fascinated by the exciting field of research for both medical and security research. My passion for this area of study has grown immensely over time, and I am driven to learn more and make meaningful contributions in both fields. With a strong foundation in both areas, I am confident in my ability to excel and make a positive impact in the world. As a part of my medical school application, I engage in computational neuroscience research. Additionally, I have a keen interest in cyber security and conduct research in this area in my free time. My passion for computer science and medical science is insatiable, and as such, I decided to focus on both fields of study. I am fascinated by complex topics and enjoy learning about them.
-
-
-**My specialties include..** 
- 
  
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Python  10 Hours          █████████████████████████   100.00 %
-HTML  10 Hours            █████████████████████████   100.00 % 
-CSS  10 Hours             █████████████████████████   100.00 % 
-Javascript  10 Hours      █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
+
 💬 **My Contacts:** 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderizqu/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://x310t0x01.com/)
