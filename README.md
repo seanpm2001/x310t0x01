@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=21&lines=Cyber+Security+Research)](https://git.io/typing-svg)
 
 
-In the vast digital realm where codes converse and systems intertwine, I dwell not just as an enthusiast but as an emerging connoisseur. By day, I'm a full-time student immersed in the complexities of computer science at college, threading my way through algorithms, data structures, and computational theories. But by night, my identity morphs, and the hacker within me awakens. This isn't about mischief; it's about a deep passion, a relentless curiosity, and the pursuit of mastering the intricacies of the digital universe. In both realms, my mission remains the same: to understand, innovate, and redefine the boundaries of technology.
-
-
+In the vast and intricate expanse of the digital realm, I've found more than just a passion; I've discovered a calling. By day, I navigate the challenging waters of academia as a committed computer science student, delving deep into theories, algorithms, and codes that define our digital age. Yet, when the lecture halls fall silent, my true journey begins. Platforms like Kali Linux, Parrot OS, Arch OS, Windows, and Mac have felt the cadence of my keystrokes, each echoing my mastery and thirst for more. In the realm of game development, I've painted vast universes, weaving tales of adventures and challenges. The intricate web of the internet has been both my canvas and playground, as I've crafted digital architectures and responsive designs in web development. But it's in the adrenaline-fueled domain of penetration testing where my audacity and skills are truly put to the test, probing the strengths and vulnerabilities of systems. Each line of code I write, each challenge I undertake, is a testament to my relentless pursuit of excellence. In a world governed by binaries and data streams, I stand at the intersection of learning and mastery, ever eager to push the boundaries.
 
 
 
