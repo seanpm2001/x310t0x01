@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=21&lines=Cyber+Security+Research)](https://git.io/typing-svg)
 
-### <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
-          
-        
-                     
-### Welcome &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
+
 In the vast digital realm where codes converse and systems intertwine, I dwell not just as an enthusiast but as an emerging connoisseur. By day, I'm a full-time student immersed in the complexities of computer science at college, threading my way through algorithms, data structures, and computational theories. But by night, my identity morphs, and the hacker within me awakens. This isn't about mischief; it's about a deep passion, a relentless curiosity, and the pursuit of mastering the intricacies of the digital universe. In both realms, my mission remains the same: to understand, innovate, and redefine the boundaries of technology.
 
 
