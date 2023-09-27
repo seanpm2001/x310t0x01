@@ -1,8 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1900&pause=500&color=20F700&width=435&lines=Vulnerability+Research;Game+Development;Web+Development;Penetration+Testing)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="[https://github.com/DenverCoder1](https://github.com/X310t0x01)">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&color=00E901&center=true&multiline=true&width=435&lines=Security+Engineering" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
