@@ -1,17 +1,13 @@
-
-
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00E901&center=true&width=435&lines=Security+Engineering;Game+Development;Software+Engineering;Web+Development;Penetration+Testing" alt="Typing SVG" /></a>
 </p>
   <p>In the vast and intricate expanse of the digital realm, I've found more than just a passion; I've discovered a calling. By day, I navigate the challenging waters of academia as a committed computer science student, delving deep into theories, algorithms, and codes that define our digital age. Yet, when the lecture halls fall silent, my true journey begins. Platforms like Kali Linux, Parrot OS, Arch OS, Windows, and Mac have felt the cadence of my keystrokes, each echoing my mastery and thirst for more. In the realm of game development, I've painted vast universes, weaving tales of adventures and challenges. The intricate web of the internet has been both my canvas and playground, as I've crafted digital architectures and responsive designs in web development. But it's in the adrenaline-fueled domain of penetration testing where my audacity and skills are truly put to the test, probing the strengths and vulnerabilities of systems. Each line of code I write, each challenge I undertake, is a testament to my relentless pursuit of excellence. In a world governed by binaries and data streams, I stand at the intersection of learning and mastery, ever eager to push the boundaries.
 </p>
 
+
+
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/X310t0x01?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
