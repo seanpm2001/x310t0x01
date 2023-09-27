@@ -1,6 +1,7 @@
 
 <p align="center">
-  <a>(https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1900&pause=500&color=20F700&width=435&lines=Vulnerability+Research;Game+Development;Web+Development;Penetration+Testing)](https://git.io/typing-svg)</a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00E901&center=true&width=435&lines=Security+Engineering;Game+Development;Software+Engineering;Web+Development;Penetration+Testing" alt="Typing SVG" /></a>
+
 </p>
 
 <p align="center">
