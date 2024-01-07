@@ -4,7 +4,7 @@
                   
              
       
-                                                      
+                                                       
           
   <p>
     I am a passionate Pre-Medical student in honors, with a deep-rooted interest in Computational Neuroscience. My goal is to make a significant impact in the world of healthcare. I have been pushing myself to excel in every aspect of my scholarly journey, driven by a relentless pursuit of excellence. The honors college has provided me with a platform to challenge myself and expand my horizons. Through my rigorous coursework, I have gained a comprehensive understanding of the complex interplay between the human brain and various physiological systems. I have also honed my analytical and problem-solving skills, which are crucial in this field. Working alongside leading experts in the field has deepened my knowledge and provided me with invaluable insights. My ultimate aim is to become a healthcare professional who not only heals the sick but also pioneers advancements that can revolutionize the field of medicine. Science and technology have the power to transform lives, and I am committed to leveraging this power for the greater good. My academic journey is a testament to my unwavering dedication to the pursuit of knowledge and my belief in the transformative power of science and technology.
