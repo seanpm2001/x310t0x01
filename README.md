@@ -3,7 +3,7 @@
 </p>               
                                      
                                                                              
-                                                                                                  
+                                                                                                   
                      
   <p>  
 I am a Security Researcher deeply passionate about the dynamic world of Cyber Security. My journey in this field has been defined by relentless curiosity and a steadfast commitment to understanding and countering digital threats. Cybersecurity isn't just my profession; it's my calling. I thrive on the challenges of dissecting malware, discovering vulnerabilities, and developing innovative solutions to protect digital assets. In addition to my professional pursuits, I am an avid participant in Capture The Flag (CTF) challenges on platforms like HackTheBox, TryHackMe, and others. These CTF challenges provide an invaluable opportunity to apply and refine my skills, tackling a diverse range of cybersecurity scenarios.
