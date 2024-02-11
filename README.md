@@ -7,7 +7,8 @@
                                        
                                                                                                              
                                   
-  <p>  
+  <p>
+   I'm an honor student studying pre-medicine with a real passion for digging into the mysteries of the brain. I've always been intrigued by how our minds work, and now I'm diving deep into Computational Neuroscience to explore that fascination further. It's this perfect blend of biology and technology that really gets me excited! I've been soaking up knowledge like a sponge, taking on challenging courses and diving into research projects whenever I can. My goal? To use what I learn to make a difference in understanding neurological disorders and improving treatments. Let's unlock the secrets of the brain together!
 </p>                                                                                                                                                                      
                                                     
                              
