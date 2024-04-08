@@ -3,7 +3,7 @@
                                                                                                                                                                            
                                                         
                                               
-                                                                                                                                                                              
+                                                                                                                                                                               
                                                    
   <h2>🛠️ My Favorite Tools</h2> 
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
