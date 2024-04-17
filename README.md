@@ -3,7 +3,7 @@
                                                                                                                                                                                                    
                                                                                                                                                                                                                                                                                                                                                                                                   
                                         
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3> Programming and Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%X310t0x01+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
